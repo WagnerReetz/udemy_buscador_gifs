@@ -1,0 +1,3 @@
+QhYs6AWTR6n9JregQi7VZAwJdTLibUOg
+
+https://api.giphy.com/v1/gifs/trending?api_key=QhYs6AWTR6n9JregQi7VZAwJdTLibUOg&limit=25&rating=g
